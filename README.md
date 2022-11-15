@@ -1,7 +1,7 @@
 # Write-a-Data-Science-Blog-Post
 
 ### Medium Blog Post
-Here is the Medium blog post I have written: https://medium.com/@emrebilgehangedik/seattle-airbnb-listings-analysis-d88c839596f8
+Here is the Medium blog post I have written: https://medium.com/@arachauhan/write-a-data-science-blog-post-b73d42364dff
 
 
 ### Project Motivation
@@ -23,8 +23,7 @@ I use Python3. Here are the libraries I used in my Jupyter Notebook:
 3. Sklearn
 4. Seaborn
 5. matplotlib.pyplot
-6. Collections
-7. Math
+6. Math
 
 
 ### File Descriptions
