@@ -32,3 +32,12 @@ Jupyter notebook with complete analysis, answers to the questions, explanations 
 
 2. listings.csv
 Original dataset in csv format
+
+**Data source:**
+
+https://www.kaggle.com/airbnb/seattle
+
+**Acknowledgements:**
+
+- Dataset credit: airbnb
+- License:CC0-Public Domain
